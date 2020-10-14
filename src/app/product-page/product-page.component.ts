@@ -1,5 +1,6 @@
+import { Album } from './../album';
 import { Component, OnInit } from '@angular/core';
-
+// import {Album} from ',/Album'
 @Component({
   selector: 'app-product-page',
   templateUrl: './product-page.component.html',
